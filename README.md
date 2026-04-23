@@ -6,7 +6,7 @@
 
 ## 🔥 Projects
 - Socially Aware Recommendation System  
-- Cyber Attack Detection in IIoT  
+- Deep Learning-Based Cyber Attack Detection in IIoT  
 - College Website  
 
 ## 📫 Contact
