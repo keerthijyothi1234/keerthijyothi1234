@@ -4,10 +4,11 @@
 💻 Java | Python | Machine Learning | SQL  
 🚀 Passionate about building real-world applications  
 
-## 🔥 Projects
-- Socially Aware Recommendation System  
-- Deep Learning-Based Cyber Attack Detection in IIoT  
-- College Website  
+🔥 Projects
+
+- [Socially Aware Recommendation System](https://github.com/keerthijyothi1234/socially-aware-recommendation-system)  
+- [Deep Learning-Based Cyber Attack Detection](https://github.com/keerthijyothi1234/deep-learning-cyber-attack-detection)  
+- [College Website](https://github.com/keerthijyothi1234/mini-project)  
 
 ## 📫 Contact
 📧 keerthijyothi1234@gmail.com  
